@@ -1,4 +1,4 @@
-#  E-Commerce React
+#  E-Commerce FrontEnd
 
 Projeto de e-commerce desenvolvido em grupo usando **React** para a escola.
 
